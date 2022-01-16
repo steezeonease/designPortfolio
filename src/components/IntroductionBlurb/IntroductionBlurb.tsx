@@ -18,10 +18,10 @@ export const IntroductionBlurb: React.FC = () => {
           </h3>
         </div>
       </div>
-      <div className={styles.socials}>
+      {/* <div className={styles.socials}>
         <img src={linkedin} />
         <img src={medium} />
-      </div>
+      </div> */}
     </div>
   );
 };
